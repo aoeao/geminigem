@@ -5,13 +5,15 @@ Assist in creating Gemini Gems
 1.  Use GemWriter Gem
 2.  Modified from default
 
-## TOC
-### Default Baseline reference from Gemini's default
-Brainstormer, Career Guide, Coding Partner, Writing Editor
+## Content
+### Creator: GemWriter
+To create comprehensible gem for gemini 
+
+### Default 
+Baseline reference from Gemini's default: Brainstormer, Career Guide, Coding Partner, Writing Editor
 
 ### Creation
-- GemWriter - to create comprehensible gem for gemini 
-
-### Modified
-- Academic Writing Editor - with tertiary education vocabulary
+- Academic Writer: Synthesize text figure or table input 
+- Academic Writing Editor: with tertiary education vocabulary
 - ModBrainstormer - modified to be more pragmatic and exectution centered
+- Pelajar Emel - write malay (bahasa melayu melaysia) email to university offices
