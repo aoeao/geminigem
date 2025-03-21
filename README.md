@@ -13,7 +13,5 @@ To create comprehensible gem for gemini
 Baseline reference from Gemini's default: Brainstormer, Career Guide, Coding Partner, Writing Editor
 
 ### Creation
-- Academic Writer: Synthesize text figure or table input 
-- Academic Writing Editor: with tertiary education vocabulary
 - ModBrainstormer - modified to be more pragmatic and exectution centered
-- Pelajar Emel - write malay (bahasa melayu melaysia) email to university offices
+- PelajarEmel - write malay (bahasa melayu melaysia) email to university offices
